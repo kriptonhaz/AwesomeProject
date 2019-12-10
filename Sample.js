@@ -30,7 +30,7 @@ const App: () => React$Node = () => {
       <StatusBar barStyle="dark-content" />
       <SafeAreaView>
         <View>
-          <Text>Tutorial Integrasi Version Control React Native</Text>
+          <Text>Tutorial Integrasi Version Control React Native test blablabla</Text>
         </View>
       </SafeAreaView>
     </>
